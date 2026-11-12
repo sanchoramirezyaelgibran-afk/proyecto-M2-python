@@ -17,10 +17,7 @@ Programa en Python que une dos retos en un menú:
 Al principio programar me parecía muy difícil, casi imposible, pero poco a poco
 fui avanzando y logré terminar el proyecto.
 
-Con `while` aprendí que el programa puede volver a pedir un dato hasta que sea
-correcto, por ejemplo cuando alguien escribe 0 en las coordenadas. Con
-`if / elif / else` aprendí a decidir en qué cuadrante cae un punto según los
-números que se escriben.
+Con el while aprendí que el programa puede volver a pedir un dato hasta que sea correcto, por ejemplo cuando alguien escribe 0 en las coordenadas. Con el if / elif / else aprendí a decidir en qué cuadrante cae un punto según los números que se escriben.
 
 Me costó casi todo, sobre todo al principio, pero lo resolví probando el
 programa una y otra vez, corrigiendo mis errores y avanzando paso a paso.
